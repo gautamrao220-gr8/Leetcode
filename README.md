@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0443-string-compression) |
