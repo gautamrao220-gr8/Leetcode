@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/gautamrao220-gr8/Leetcode/tree/master/0584-find-customer-referee) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/gautamrao220-gr8/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gautamrao220-gr8/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
